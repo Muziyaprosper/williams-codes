@@ -1,0 +1,110 @@
+/*body{
+	padding: 0;
+	margin: 0;
+}
+header{
+
+	background-color: lightgrey;
+}
+nav{
+	padding-top: 1rem;
+	padding-bottom: 0.5rem;
+}
+ul{
+
+	margin-top: 2rem;
+	padding-top: 2rem;
+	list-style: none;
+}
+li{
+
+	display: inline-block;
+}
+li a{
+	text-decoration-line: none;
+	padding: 0.5rem;
+	background-color: dodgerblue;
+	color: white; 
+	border-radius: 5px; 
+}
+li a:hover{
+	background-color: white;
+	color: dodgerblue;
+	border: 0.5px solid dodgerblue;
+	transition: ease-in;
+	transition-duration: 500ms;
+}
+.homepage{
+
+	width: 100%;
+	height: 15rem;
+	background-color: gray;
+}
+.container {
+	margin-top: 0.5rem;
+	width: 100%;
+}
+.p,.p1,.p2{
+	width: 33.3%;
+	float: left;
+}
+
+.p{
+	background-color: lightgrey;
+	color: white;
+
+}
+.p:hover{
+	cursor: pointer;
+	background-color: white;
+	color: dodgerblue;	
+	transition: ease-in;
+	transition-duration: 500ms;
+}
+
+.p2{
+	background-color: lightblue;
+	color: black;
+}
+.p1{
+	background-color: dodgerblue;
+	color: blue;
+}
+*/
+
+.homepage{
+	background-image: url(images/alphabet-blur-books-close-up-301920.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+	height: 20rem;
+
+	
+}
+.container{
+	margin-top: -5rem;
+}
+i{
+	font-size: 5em;
+}
+.p,.p1,.p2,.p3:hover{
+	
+	cursor: pointer;
+
+}
+h3{
+	font-size: 
+}
+.nav-link{
+	color: #000000;
+}
+
+.nav-item:hover{
+	background-color: grey;
+	border-radius: 0.2em;
+	transition: ease-in;
+	transition-duration: 200ms;
+}
+.nav-link:hover{
+	color: white;
+}
